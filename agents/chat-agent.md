@@ -15,3 +15,6 @@ A simple AI chat agent example for the Ritual ecosystem.
 - Memory support
 - Multi-agent collaboration
 - Tool integration
+## References
+
+Coming soon...
